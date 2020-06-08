@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-def26": {
+      "hosting": {
+        "fireChat": [
+          "firechat-def26"
+        ]
+      }
+    }
+  }
+}
